@@ -13,6 +13,7 @@ export const sql = dependency("sql.js", "1.6.2", "dist/sql-wasm.js");
 export const vega = dependency("vega", "5.21.0", "build/vega.min.js");
 export const vegalite = dependency("vega-lite", "5.2.0", "build/vega-lite.min.js");
 export const vegaliteApi = dependency("vega-lite-api", "5.0.0", "build/vega-lite-api.min.js");
+export const vegaTooltip = dependency("vega-tooltip", "0.28.1", "build/vega-tooltip.min.js");
 export const arrow = dependency("apache-arrow", "4.0.1", "Arrow.es2015.min.js");
 export const arquero = dependency("arquero", "4.8.8", "dist/arquero.min.js");
 export const topojson = dependency("topojson-client", "3.1.0", "dist/topojson-client.min.js");
